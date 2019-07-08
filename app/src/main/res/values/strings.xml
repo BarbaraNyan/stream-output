@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StreamOutput</string>
+    <string name="take_snapshot">Сделать скриншот</string>
+    <string name="set_up_connection">Подключиться</string>
+    <string name="ip_address">IP-адрес:</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+</resources>
